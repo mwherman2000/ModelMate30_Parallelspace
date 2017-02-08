@@ -22,9 +22,9 @@ There are 4 files of interest (in other words, ignore any odd looking files):
 - Parallelspace_ModelMate_MasterDataset_Complete12.zip - Compressed archive containing the above 3 files
 
 Best regards,
- Michael Herman (Toronto)
- Parallelspace Corporation
- mwherman@parallelspace.net
+- Michael Herman (Toronto)
+- Parallelspace Corporation
+- mwherman@parallelspace.net
 
 Credits and Copyrights
 
