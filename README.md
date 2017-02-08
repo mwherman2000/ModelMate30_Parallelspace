@@ -12,7 +12,7 @@ Each new version of the Parallelspace ModelMate Master Dataset will be published
 
 The current version (and folder name) is: MasterDataset_Complete12/Parallelspace_ModelMate_MasterDataset_Complete12
 
-Path: https://github.com/mwherman2000/ModelMate30_Parallelspace/tree/master/MasterDataset_Complete12/Parallelspace_ModelMate_MasterDataset_Complete12
+https://github.com/mwherman2000/ModelMate30_Parallelspace/tree/master/MasterDataset_Complete12/Parallelspace_ModelMate_MasterDataset_Complete12
 
 There are 4 files of interest (in other words, ignore any odd looking files):
 
