@@ -18,7 +18,7 @@ There are 4 files of interest (in other words, ignore any odd looking files):
 
 - Parallelspace_ModelMate_MasterDataset_Complete12.csv - MS Excel 2016 CSV-format text file containing the current ModelMate MasterDataset
 - Parallelspace_ModelMate_MasterDataset_Complete12.accdb - MS Access 2016 version of the ModelMate MasterDataset CSV file
-- Parallelspace_ModelMate_MasterDataset_Complete12.cql - Neo4j Cypher Query Language (CQL) version of the MasterDataset CSV file
+- Parallelspace_ModelMate_MasterDataset_Complete12.cql - Neo4j Cypher Query Language (CQL) version of the ModelMate MasterDataset CSV file
 - Parallelspace_ModelMate_MasterDataset_Complete12.zip - Compressed archive containing the above 3 files
 
 Best regards,
