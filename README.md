@@ -1,5 +1,5 @@
 # ModelMate30_Parallelspace
-Parallelspace ModelMate extensions to the ArchiMate language for Enterprise Architecture
+Parallelspace ModelMate data extensions to the ArchiMate language for Enterprise Architecture
 
 The files in this repository are free for you to use subject to the BSD 2-part (Simplified) license attached to this repository.
 
