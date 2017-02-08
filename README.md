@@ -1,8 +1,12 @@
-
 # ModelMate30_Parallelspace
 Parallelspace ModelMate extensions to the ArchiMate language for Enterprise Architecture
 
 The files in this repository are free for you to use subject to the BSD 2-part (Simplified) license attached to this repository.
+
+This repository over time will include several different collections of files.  Currently, this repository contains:
+- Parallelspace ModelMate Master Dataset collection of files
+
+Parallelspace ModelMate Master Dataset
 
 Each new version of the Parallelspace ModelMate Master Dataset will be published in its own folder.
 
@@ -12,10 +16,10 @@ Path: https://github.com/mwherman2000/ModelMate30_Parallelspace/tree/master/Mast
 
 There are 4 files of interest (in other words, ignore any odd looking files):
 
-Parallelspace_ModelMate_MasterDataset_Complete12.csv - MS Excel 2016 CSV-format text file containing the current ModelMate MasterDataset
-Parallelspace_ModelMate_MasterDataset_Complete12.accdb - MS Access 2016 version of the ModelMate MasterDataset CSV file
-Parallelspace_ModelMate_MasterDataset_Complete12.cql - Neo4j Cypher Query Language (CQL) version of the MasterDataset CSV file
-Parallelspace_ModelMate_MasterDataset_Complete12.zip - Compressed archive containing the above 3 files
+- Parallelspace_ModelMate_MasterDataset_Complete12.csv - MS Excel 2016 CSV-format text file containing the current ModelMate MasterDataset
+- Parallelspace_ModelMate_MasterDataset_Complete12.accdb - MS Access 2016 version of the ModelMate MasterDataset CSV file
+- Parallelspace_ModelMate_MasterDataset_Complete12.cql - Neo4j Cypher Query Language (CQL) version of the MasterDataset CSV file
+- Parallelspace_ModelMate_MasterDataset_Complete12.zip - Compressed archive containing the above 3 files
 
 Best regards,
 Michael Herman (Toronto)
