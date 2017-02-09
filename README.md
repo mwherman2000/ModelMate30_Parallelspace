@@ -28,7 +28,7 @@ Best regards,
 - Parallelspace Corporation
 - mwherman@parallelspace.net
 
-Credits and Copyrights
+Credits, Copyrights and Trademarks
 
 1. ArchiMate is a registered trademark of The Open Group
 2. The primary data source for this project is the Mastering ArchiMate blog article "The ArchiMate 3.0 Relations Table…" (https://masteringarchimate.com/2017/02/07/the-archimate-3-0-relations-table/). Thank you to Gerben Wierda (https://www.linkedin.com/in/gerbenwierda/) for leading the creation of the Mastering ArchiMate master dataset for ArchiMate 3.0.
