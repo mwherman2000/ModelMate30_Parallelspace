@@ -8,7 +8,7 @@ The files in this repository are free for you to use subject to the BSD 2-part (
 This repository over time will include several different collections of files.  Currently, this repository contains:
 - Parallelspace ModelMate Master Dataset (CSV, MS Access 2016, and Neo4j CQL formats)
 
-Parallelspace ModelMate Master Datasets
+# Parallelspace ModelMate Master Datasets
 
 Each new version of the Parallelspace ModelMate Master Dataset will be published in its own folder.
 
@@ -28,7 +28,7 @@ Best regards,
 - Parallelspace Corporation
 - mwherman@parallelspace.net
 
-Credits, Copyrights and Trademarks
+# Credits, Copyrights and Trademarks
 
 1. ArchiMate is a registered trademark of The Open Group
 2. The primary data source for this project is the Mastering ArchiMate blog article "The ArchiMate 3.0 Relations Table…" (https://masteringarchimate.com/2017/02/07/the-archimate-3-0-relations-table/). Thank you to Gerben Wierda (https://www.linkedin.com/in/gerbenwierda/) for leading the creation of the Mastering ArchiMate master dataset for ArchiMate 3.0.
