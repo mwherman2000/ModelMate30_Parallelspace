@@ -6,7 +6,7 @@ COPYRIGHT © 2016-2017 by Michael Herman, Toronto Canada. All rights reserved. A
 The files in this repository are free for you to use subject to the BSD 2-part (Simplified) license attached to this repository.
 
 This repository over time will include several different collections of files.  Currently, this repository contains:
-- Parallelspace ModelMate Master Dataset collection of files
+- Parallelspace ModelMate Master Dataset collection of files (CSV, MS Access and Neo4j CQL formats)
 
 Parallelspace ModelMate Master Dataset
 
