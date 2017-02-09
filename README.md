@@ -1,6 +1,8 @@
 # ModelMate30_Parallelspace
 Parallelspace ModelMate data extensions to the ArchiMate language for Enterprise Architecture
 
+COPYRIGHT © 2016-2017 by Michael Herman, Toronto Canada. All rights reserved. Applies to all the contents of this repository.
+
 The files in this repository are free for you to use subject to the BSD 2-part (Simplified) license attached to this repository.
 
 This repository over time will include several different collections of files.  Currently, this repository contains:
