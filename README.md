@@ -22,7 +22,7 @@ There are 5 files of interest (in other words, ignore any odd looking files):
 - Parallelspace_ModelMate_MasterDatasets_CompleteXX.csv - MS Excel 2016 Workbook containing the current ModelMate Master Dataset
 - Parallelspace_ModelMate_MasterDatasets_CompleteXX.accdb - MS Access 2016 version of the ModelMate Master Dataset CSV file
 - Parallelspace_ModelMate_MasterDatasets_CompleteXX.cql - Neo4j Cypher Query Language (CQL) version of the ModelMate Master Dataset CSV file
-- Parallelspace_ModelMate_MasterDatasets_CompleteXX.zip - Compressed archive containing the above 3 files
+- Parallelspace_ModelMate_MasterDatasets_CompleteXX.zip - Compressed archive containing the above 4 files
 
 Best regards,
 - Michael Herman (Toronto)
