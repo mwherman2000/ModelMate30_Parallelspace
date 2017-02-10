@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{F2D0009F-E49A-4E0D-A704-C668370C2BC9}</ProjectGuid>
+    <ProjectGuid>{0DD10B91-02C8-4F89-81F0-6B1E6F4B6314}</ProjectGuid>
     <OutputType>AppContainerExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Parallelspace_ModelMate_MasterDataset_Complete12</RootNamespace>
@@ -91,6 +91,20 @@
     <VisualStudioVersion>14.0</VisualStudioVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="ModelMate_Visualizations\100 Parallelspace_ModelMate_MasterDataset_Complete10-BusinessDomain.png" />
+    <Content Include="ModelMate_Visualizations\120 Parallelspace_ModelMate_MasterDataset_Complete10-BusinessDomain2.png" />
+    <Content Include="ModelMate_Visualizations\130 Parallelspace_ModelMate_MasterDataset_Complete10-BusinessDomain3.png" />
+    <Content Include="ModelMate_Visualizations\200 Parallelspace_ModelMate_MasterDataset_Complete10-ApplicationDomain.png" />
+    <Content Include="ModelMate_Visualizations\230 Parallelspace_ModelMate_MasterDataset_Complete10-ApplicationDomain3.png" />
+    <Content Include="ModelMate_Visualizations\300 Parallelspace_ModelMate_MasterDataset_Complete10-TechnologyDomain.png" />
+    <Content Include="ModelMate_Visualizations\330 Parallelspace_ModelMate_MasterDataset_Complete10-TechnologyDomain3.png" />
+    <Content Include="ModelMate_Visualizations\340 Parallelspace_ModelMate_MasterDataset_Complete10-TechnologyDomain5.png" />
+    <Content Include="ModelMate_Visualizations\350 Parallelspace_ModelMate_MasterDataset_Complete10-TechnologyDomain4.png" />
+    <Content Include="ModelMate_Visualizations\360 Parallelspace_ModelMate_MasterDataset_Complete10-TechnologyDomain6.png" />
+    <Content Include="ModelMate_Visualizations\370 Parallelspace_ModelMate_MasterDataset_Complete10-TechnologyDomain7.png" />
+    <Content Include="ModelMate_Visualizations\410 Parallelspace_ModelMate_MasterDataset_Complete10-PassiveStructure1.png" />
+    <Content Include="ModelMate_Visualizations\420 Parallelspace_ModelMate_MasterDataset_Complete10-ActiveStructure1.png" />
+    <Content Include="ModelMate_Visualizations\430 Parallelspace_ModelMate_MasterDataset_Complete10-Behavior1.png" />
     <Content Include="Parallelspace_ModelMate_MasterDataset_Complete12.accdb">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
@@ -101,7 +115,6 @@
     <None Include="Parallelspace_ModelMate_MasterDataset_Complete12.zip" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="ModelMate_Visualizations\" />
     <Folder Include="Properties\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\WindowsXaml\v$(VisualStudioVersion)\Microsoft.Windows.UI.Xaml.CSharp.targets" />
